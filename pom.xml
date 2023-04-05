@@ -2,22 +2,23 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.roydon.zutmail</groupId>
-    <artifactId>zutmail</artifactId>
+    <groupId>com.roydon.zutmall</groupId>
+    <artifactId>zutmall</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>zutmail</name>
+    <name>zutmall</name>
     <description>学子商城父工程</description>
     <packaging>pom</packaging>
 
     <modules>
-        <module>zutmail-coupon</module>
-        <module>zutmail-member</module>
-        <module>zutmail-order</module>
-        <module>zutmail-product</module>
-        <module>zutmail-ware</module>
-<!--        <module>renren-fast</module>-->
-<!--        <module>renren-generator</module>-->
-<!--        <module>zutmail-common</module>-->
+        <module>zutmall-coupon</module>
+        <module>zutmall-member</module>
+        <module>zutmall-order</module>
+        <module>zutmall-product</module>
+        <module>zutmall-ware</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>zutmall-common</module>
+        <module>zutmall-gateway</module>
     </modules>
 
 </project>
