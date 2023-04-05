@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/zutmail.iml" filepath="$PROJECT_DIR$/.idea/zutmail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zutmail-coupon/zutmail-coupon.iml" filepath="$PROJECT_DIR$/zutmail-coupon/zutmail-coupon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zutmail-member/zutmail-member.iml" filepath="$PROJECT_DIR$/zutmail-member/zutmail-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zutmail-order/zutmail-order.iml" filepath="$PROJECT_DIR$/zutmail-order/zutmail-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zutmail-product/zutmail-product.iml" filepath="$PROJECT_DIR$/zutmail-product/zutmail-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zutmail-ware/zutmail-ware.iml" filepath="$PROJECT_DIR$/zutmail-ware/zutmail-ware.iml" />
+    </modules>
+  </component>
+</project>
